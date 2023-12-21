@@ -6,7 +6,7 @@ productos = ["Huevos","salo"]
 
 # Reemplaza <usuario> y <contraseña> con tus credenciales de acceso
 usuario = "nahuelguerci"
-contraseña = "uRtpoys95zLVeOM0"
+contraseña = "000000000000000000"
 
 # URL de conexión con usuario y contraseña incluidos
 uri = f"mongodb+srv://{usuario}:{contraseña}@cluster0.ufximyi.mongodb.net/recetas?retryWrites=true&w=majority"
